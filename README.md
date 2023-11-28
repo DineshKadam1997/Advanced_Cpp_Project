@@ -56,11 +56,11 @@ In this assignment we used sequential containers such as list, vector and deque.
  
 This assignment involves use of sequential container deque and string concatenation.
 
-# Assignment 10 - Implemetation of sequential container Deque Part2
+# Assignment 11 - Use of `std::map` Container in C++ STL
  
 ## Overview
  
-This assignment involves use of sequential container deque and string concatenation.
+This assignment focuses on the utilization of the `std::map` container in C++ STL. In the `/headers/Triangulation.h` file, a `std::map<Triangle, double> tArea` is declared to store pairs of `Triangle` objects and their areas. The container is populated using the `void Triangulation::setArea()` function. Additionally, two methods are available to retrieve and print the areas
 
 # Assignment 12: Implementation of virtual function.
  
