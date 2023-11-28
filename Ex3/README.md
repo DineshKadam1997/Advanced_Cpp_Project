@@ -11,4 +11,4 @@ In this assignment we used file handling to read and process triangle data from 
 3. **Took all the values and pass each (x, y, z) values to the point3D class object in location `Ex3\Updated Sketchers\src\Reader.cpp`**.
 4. **Added that object in the Triangle class type vector in location `Ex3\Updated Sketchers\src\Reader.cpp`**.
 **Used a for each loop to print out the data from each object in write() function in location `Ex3\Updated Sketchers\src\Writer.cpp`**.
-**Used a range-for loop to write the data from each object of Triangle stored in vector triangles in location `Ex3\src\Writer.cpp`**.
+**Used a for each loop to write the data from each object of Triangle stored in vector triangles in location `Ex3\src\Writer.cpp`**.
