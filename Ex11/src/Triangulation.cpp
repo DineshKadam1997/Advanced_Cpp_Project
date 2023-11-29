@@ -25,7 +25,12 @@ std::vector<Triangle> Triangulation::getTriangles()
     return mTriangles;
 }
 
-std::map<Triangle, double> Triangulation::getArea()
+bool operator<(const Triangle& other, const Triangle& father)
+{
+    return true;
+}
+
+std::multimap<Triangle, double> Triangulation::getArea()
 {
     return tArea;
 }
